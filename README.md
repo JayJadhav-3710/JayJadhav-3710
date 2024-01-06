@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjadhav-3710&label=Profile%20views&color=0e75b6&style=flat" alt="jayjadhav-3710" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjadhav-3710" alt="jayjadhav-3710" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jay_jadhav_" target="blank"><img src="https://img.shields.io/twitter/follow/jay_jadhav_?logo=twitter&style=for-the-badge" alt="jay_jadhav_" /></a> </p>
-
 - 📫 How to reach me **jayjadhav2008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
