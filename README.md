@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3jl6KYZ6sPjp6KXid5DT24&ust=1704608811706000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiqteqQyIMDFQAAAAAdAAAAABAD)"
 
 - 📫 How to reach me **jayjadhav2008@gmail.com**
 
