@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jayjadhav2008@gmail.com**
   
-- 🔭 I’m currently working on **Neuropal.ai**
+- 🔭 I’m currently working on **Neuropal.io**
 
 - 🌱 I’m currently learning Javascript , React , Next , Web3.0
 
