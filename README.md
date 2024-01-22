@@ -5,6 +5,18 @@
 
 
 - 📫 How to reach me **jayjadhav2008@gmail.com**
+  
+- 🔭 I’m currently working on **Neuropal.ai**
+
+- 🌱 I’m currently learning Javascript , React , Next , Web3.0
+
+- 👨‍💻 All of my projects are available at **https://github.com/JayJadhav-3710**
+
+- 💬 Ask me about Javascript , React , Next
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 
