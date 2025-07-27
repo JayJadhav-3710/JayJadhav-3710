@@ -6,9 +6,7 @@
 
 - 📫 How to reach me **jayjadhav2008@gmail.com**
   
-- 🔭 I’m currently working on **Neuropal.io**
-
-- 🌱 I’m currently learning Javascript , React , Next , Web3.0
+ 🌱 I’m currently learning Javascript , React , Next , Web3.0
 
 - 👨‍💻 All of my projects are available at **https://github.com/JayJadhav-3710**
 
