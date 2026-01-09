@@ -4,7 +4,7 @@
 - 🧑‍💻 Computer Science student | BSc CS (2022–2025)
 - 🔭 Currently building real-world projects with **ReactJS**, **Next.js**, and **MongoDB**
 - 🌱 Learning & exploring **TypeScript**, **Solidity**, **Web3.0**, **AI integrations**, and **Blockchain**
-- 💼 Co-Founder at **Jade Studios** | Ex-Intern at **Tentaxaur Studio** **Neuropal**, **DataCrush**, **The Sparks Foundation** 
+- 💼 Co-Founder at **Jade Studios** | Ex-Intern at **Tentaxaur Studio**, **Neuropal**, **DataCrush**, **The Sparks Foundation** 
 - 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, or anything Web
 - 📫 Reach me at: **jayjadhav2008@gmail.com**
 - 🌐 Portfolio & projects: [github.com/JayJadhav-3710](https://github.com/JayJadhav-3710)
