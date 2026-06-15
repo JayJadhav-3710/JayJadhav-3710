@@ -1,59 +1,123 @@
 <h1 align="center">Hi 👋, I'm Jay Jadhav</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from India</h3>
+<h3 align="center">Full-Stack Developer | Building AI, Web & Startup Solutions 🚀</h3>
 
-- 🧑‍💻 Computer Science student | BSc CS (2022–2025)
-- 🔭 Currently building real-world projects with **ReactJS**, **Next.js**, and **MongoDB**
-- 🌱 Learning & exploring **TypeScript**, **Solidity**, **Web3.0**, **AI integrations**, and **Blockchain**
-- 💼 Co-Founder at **Jade Studios** | Ex-Intern at **Tentaxaur Studio**, **Neuropal**, **DataCrush**, **The Sparks Foundation** 
-- 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, or anything Web
-- 📫 Reach me at: **jayjadhav2008@gmail.com**
-- 🌐 Portfolio & projects: [github.com/JayJadhav-3710](https://github.com/JayJadhav-3710)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayJadhav-3710&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-<h3 align="left">📲 Connect with me:</h3>
+## 👨‍💻 About Me
+
+I'm a Full-Stack Developer passionate about building scalable web applications, AI-powered products, and startup-focused solutions.
+
+I have experience working in startups and professional environments, contributing to production-ready applications using modern technologies such as React, Next.js, Node.js, TypeScript, and MongoDB.
+
+- 🚀 Full-Stack Developer with startup experience
+- 💼 Co-Founder at Jade Studios
+- 🎓 BSc Computer Science Graduate | Pursuing MBA
+- 🌱 Currently exploring AI Integrations, Blockchain, Web3, and System Design
+- 🔭 Building real-world SaaS and AI-powered applications
+- 📚 Published Research Author & Startup Competition Finalist
+- ⚡ Strong interest in product development and entrepreneurship
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://twitter.com/jay_jadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jay-jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jay-jadhav" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+<a href="https://github.com/JayJadhav-3710" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
 </p>
+
+📧 Email: **jayjadhav2008@gmail.com**
+
+🌍 Portfolio: **https://jayjadhav.vercel.app**
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="40" height="40" alt="Web3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
-</p>
+## 🛠️ Tech Stack
 
----
-
-<h3>📊 GitHub Stats:</h3>
-
+### Frontend
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJadhav-3710&layout=compact&theme=react" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
+### Backend
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayJadhav-3710&theme=react" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" />
+</p>
+
+### Emerging Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+AI • Web3 • Blockchain • SaaS Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Notes App
+AI-powered note-taking platform featuring smart note management, search, favorites, and automated summarization.
+
+### 📊 FailBase
+AI-powered startup intelligence platform that transforms startup failure data into actionable insights and predictive risk assessments.
+
+### 🏠 Streetbyte
+Web3-powered rent payment platform enabling cryptocurrency payments with instant INR settlement.
+
+### 💙 Neuropal
+AI-driven mental wellness platform focused on emotional well-being through intelligent digital assistance.
+
+### 🌐 DCA Academy
+Digital services platform helping businesses showcase offerings, attract clients, and strengthen their online presence.
+
+---
+
+## 🏆 Achievements
+
+- 📖 Published Research Paper in JNAO International Journal
+- 🎤 Presented Research Papers at National Conferences
+- 🏅 Startup selected among Top Finalists at IIT Bombay Eureka
+- 🏆 Grand Finalist – State Level Startup Olympiad
+- ⭐ Selected for Zonal Level Research Competition
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayJadhav-3710&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayJadhav-3710&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJadhav-3710&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-⭐️ **"Code what matters. Learn what inspires. Build what lasts."**
+## 💭 Philosophy
+
+> Build products that solve real problems, write code that scales, and keep learning every day.
+
+⭐ If you like my work, consider starring a repository and following my journey.
